@@ -9,7 +9,7 @@ I also experimented with a lower-profile HTML-only approach (no Playwright) to r
 
 Example of the data that I scraped can be found under example.json
 
-The File with all of the guide can be found under avvo-legal-guides-scraper/backups/guides.merged.jsonl
+The File with all of the guide can be found under avvo-legal-guides-scraper/backups/all_of_the_guides.jsonl
 
 ---
 ## High‑Level Crawl Flow

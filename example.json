@@ -1,0 +1,61 @@
+{
+  "canonical_url": "https://www.avvo.com/legal-guides/ugc/how-to-win-child-custody-in-pennsylvania",
+  "slug": "how-to-win-child-custody-in-pennsylvania",
+  "title": "How To Win Child Custody In Pennsylvania",
+  "published_date": "2021-08-11",
+  "updated_date": null,
+  "topics": [
+    { "name": "Child custody", "is_primary": true },
+    { "name": "Family court and child custody cases", "is_primary": false },
+    { "name": "Criminal charges for kidnapping", "is_primary": false },
+    { "name": "Family law", "is_primary": false }
+  ],
+  "primary_topic": "Child custody",
+  "jurisdiction": "PA",
+  "authors": [
+    {
+      "name": "Ivan Erik Lee",
+      "avvo_author_id": 3804002,
+      "practice_area": "About the author Ivan Erik Lee Family Law Attorney",
+      "city": "Philadelphia",
+      "state": "PA",
+      "contact_phone": "(215) 297-4072",
+      "profile_url": "/attorneys/19103-pa-ivan-lee-3804002.html"
+    }
+  ],
+  "sections": [
+    {
+      "order_index": 1,
+      "heading": null,
+      "text": "The goal of this guide is to give you some tips and tools to help you navigate and ultimately win your child custody case. Working with your ex can often demonstrate to the court that you care more about what's best for your child than defeating your ex.",
+      "word_count": 48,
+      "heading_slug": "intro"
+    },
+    {
+      "order_index": 2,
+      "heading": "Cooperate With Your Ex",
+      "text": "Nothing will destroy your case faster than not sharing information with your ex. Especially if you share legal custody, your ex has a right to know what doctor your child sees, what school they attend, etc. If you share physical custody of your child (i.e. have a visitation schedule), keeping your child from seeing or communicating with your ex for petty reasons will work against you in court. Sometimes the parent who has been reasonable in trying to see the child will be seen as the parent best suited to tend to the best interests of the child.",
+      "word_count": 102,
+      "heading_slug": "cooperate-with-your-ex"
+    },
+    {
+      "order_index": 3,
+      "heading": "Keep Track of Your Visits",
+      "text": "If you are the parent with primary physical custody, keep track of your ex's visitation pattern. If your ex fails to exercise their parental rights in violation of custody orders, a judge may modify and reduce the frequency and amount of your ex's visitation. It is also a good idea to keep track of latenesses for pick-ups and drop-offs.\nIf your ex fails to show up to drop off your child for your parenting time, you might document this violation of the custody order by filing a police report. If you are represented by an attorney, be sure to make sure your attorney has this information.",
+      "word_count": 111,
+      "heading_slug": "keep-track-of-your-visits"
+    }
+  ],
+  "combined_text": "The goal of this guide is to give you some tips and tools to help you navigate and ultimately win your child custody case. Working with your ex can often demonstrate to the court that you care more about what's best for your child than defeating your ex.\n\nCooperate With Your Ex\nNothing will destroy your case faster than not sharing information with your ex. Especially if you share legal custody, your ex has a right to know what doctor your child sees, what school they attend, etc. If you share physical custody of your child (i.e. have a visitation schedule), keeping your child from seeing or communicating with your ex for petty reasons will work against you in court. Sometimes the parent who has been reasonable in trying to see the child will be seen as the parent best suited to tend to the best interests of the child.\n\nKeep Track of Your Visits\nIf you are the parent with primary physical custody, keep track of your ex's visitation pattern. If your ex fails to exercise their parental rights in violation of custody orders, a judge may modify and reduce the frequency and amount of your ex's visitation. It is also a good idea to keep track of latenesses for pick-ups and drop-offs.\nIf your ex fails to show up to drop off your child for your parenting time, you might document this violation of the custody order by filing a police report. If you are represented by an attorney, be sure to make sure your attorney has this information.",
+  "additional_resources": [],
+  "stats": {
+    "word_count": 261,
+    "section_count": 3,
+    "reading_time_minutes": 2,
+    "avg_section_word_count": 87,
+    "max_section_word_count": 111,
+    "authors_count": 1
+  },
+  "version": 1,
+  "is_updated": false
+}
