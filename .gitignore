@@ -1,0 +1,8 @@
+# virtualenvs
+.venv/
+venv/
+
+
+# python artifacts
+*.pyc
+__pycache__/

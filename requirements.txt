@@ -1,0 +1,11 @@
+scrapy>=2.11.0,<3.0.0
+scrapy-playwright>=0.0.33
+playwright>=1.45.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.1
+trafilatura>=1.9.0
+python-dotenv>=1.0.1
+sqlite-utils>=3.36
+voyageai>=0.2.3
+faiss-cpu>=1.8.0.post1
+orjson>=3.10.6
